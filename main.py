@@ -6,6 +6,10 @@ output directory (MAKEFUN_OUTPUT_DIR, default /output). Standard library
 only. The line is judged on staying on subject, the laugh coming from the
 situation itself, a surprise in the last few words, and ringing true to a
 developer's working life.
+
+Chosen line: left alone for one mission, the agent wrote 400 files, zero
+tests, and a README that just says "trust me" — the mishap escalates to
+the last word, and every developer recognises it.
 """
 
 import os
